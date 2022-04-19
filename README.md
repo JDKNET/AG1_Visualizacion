@@ -1,3 +1,3 @@
-# js-sqvlaf
+# Actividad Guiada 1
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/js-sqvlaf)
